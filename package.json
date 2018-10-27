@@ -1,0 +1,20 @@
+{
+  "name": "frameworkmgm",
+  "version": "1.0.0",
+  "description": "try if its working",
+  "main": "index.js",
+  "scripts": {
+    "webdriver-update": "./node_modules/.bin/webdriver-manager update",
+    "webdriver-start": "./node_modules/.bin/webdriver-manager start",
+    "protractor": "protractor conf.js",
+    "start": "npm run webdriver-update && npm run webdriver-start"
+  },
+  "author": "Dan",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-data-provider": "^2.2.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor": "^5.4.1",
+    "protractor-beautiful-reporter": "^1.2.5"
+  }
+}

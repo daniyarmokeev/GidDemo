@@ -1,0 +1,27 @@
+{
+    "appdata" : {
+        "buttonName" : "BOOK NOW"
+    },
+
+    "menubarjs" : [
+        {  "names": "BOOK NOW"},
+        {  "names": "RESORTS"  },
+        {  "names": "ENTERTAINMENT"},
+        {  "names": "RESTAURANTS"},
+        {  "names": "CASINO"},
+        {  "names": "THINGS TO DO"},
+        {  "names": "GROUPS & WEDDINGS"},
+        {  "names": "REWARDS"},
+        {  "names": "OFFERS"},
+        {  "names": "MOBILE APP"}
+    ],
+    "alert" : {
+        "message": "Your current selection will be lost if you continue."
+    },
+
+    "tableData" : {
+        "number": "3,044"
+    }  
+
+
+}
